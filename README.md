@@ -13,3 +13,9 @@ Run the application:
 python -m sailing_app.main
 ```
 
+How to open a terminal:
+
+- **Windows**: Search for *Command Prompt* or *PowerShell* from the Start menu.
+- **macOS**: Open the *Terminal* app under Applications > Utilities.
+- **Linux**: Use `Ctrl+Alt+T` or find *Terminal* in the applications menu.
+
