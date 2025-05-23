@@ -13,3 +13,11 @@ Run the application:
 python -m sailing_app.main
 ```
 
+
+### Example
+
+A small example script is provided in `examples/hello.py`:
+
+```bash
+python examples/hello.py
+```
